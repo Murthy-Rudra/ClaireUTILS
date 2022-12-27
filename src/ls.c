@@ -22,7 +22,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-#include <math.h>
+
+murthy
 
 #include <unistd.h>
 #include <sys/stat.h>
